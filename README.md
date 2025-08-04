@@ -10,7 +10,12 @@ To process MEG datasets, use Processing_MEG files
 
 For generating Figure 2, run Figures.ipynb
 
+<img width="878" height="587" alt="Figure2" src="https://github.com/user-attachments/assets/8fc1f1e0-dce7-4ea2-9a02-40e054f10c0a" />
+
+
 After extracting the biomarkers, use forest_plot.R to generate Figure 3
+
+<img width="933" height="670" alt="Figure3" src="https://github.com/user-attachments/assets/30aeb626-b488-49eb-a12c-7877abf2eced" />
 
 Datasets can be downloaded from:
 
