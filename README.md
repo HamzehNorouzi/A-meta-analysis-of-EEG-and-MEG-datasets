@@ -15,7 +15,7 @@ For generating Figure 2, run Figures.ipynb
 
 After extracting the biomarkers, use forest_plot.R to generate Figure 3
 
-<img width="933" height="670" alt="Figure3" src="https://github.com/user-attachments/assets/30aeb626-b488-49eb-a12c-7877abf2eced" />
+
 
 Datasets can be downloaded from:
 
